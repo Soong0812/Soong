@@ -3,7 +3,6 @@ package memo.controller;
 import lombok.RequiredArgsConstructor;
 import memo.dto.MemoRequestDto;
 import memo.dto.MemoResponseDto;
-import memo.entity.Memo;
 import memo.service.MemoService;
 import org.springframework.web.bind.annotation.*;
 
