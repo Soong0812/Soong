@@ -1,4 +1,4 @@
-package org.example.copy.entity;
+package member.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

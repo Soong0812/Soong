@@ -1,10 +1,10 @@
-package org.example.copy.service;
+package member.service;
 
 import lombok.RequiredArgsConstructor;
-import org.example.copy.dto.MemberRequestDto;
-import org.example.copy.dto.MemberResponseDto;
-import org.example.copy.entity.Member;
-import org.example.copy.repository.MemberRepository;
+import member.dto.MemberRequestDto;
+import member.dto.MemberResponseDto;
+import member.entity.Member;
+import member.repository.MemberRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

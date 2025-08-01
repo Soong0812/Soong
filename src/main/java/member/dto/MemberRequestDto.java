@@ -1,4 +1,4 @@
-package org.example.copy.dto;
+package member.dto;
 
 import lombok.Getter;
 

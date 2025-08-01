@@ -1,10 +1,10 @@
-package org.example.copy.controller;
+package member.controller;
 
 import lombok.RequiredArgsConstructor;
-import org.example.copy.dto.MemberRequestDto;
-import org.example.copy.dto.MemberResponseDto;
-import org.example.copy.repository.MemberRepository;
-import org.example.copy.service.MemberService;
+import member.dto.MemberRequestDto;
+import member.dto.MemberResponseDto;
+import member.repository.MemberRepository;
+import member.service.MemberService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
